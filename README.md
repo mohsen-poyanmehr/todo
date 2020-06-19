@@ -1,2 +1,2 @@
 # todo
-to do lit with javascript
+to do list with javascript
